@@ -182,7 +182,3 @@ The final model used the cube root transformation of the `Whole Weight` variable
 
 #### Correlation Heatmap
 ![Plot 17](plots/17.png)
-
----
-
-Despite the strong fit, residual analysis revealed some heteroscedasticity and minor deviations from normality, especially for larger abalones. Nevertheless, the resulting model provides a solid statistical baseline for further predictive modeling and analysis tasks.
